@@ -1,4 +1,4 @@
-### hi, you can call me miss london. i design && code dope things. concurrently, i am:
+### hi, you can call me miss london. i design && code beautiful things. concurrently, i am:
 
 - ✨  running [=i/o](http://github.com/equal-io), a hacker collective dedicated to innovation, education, collaboration && keeping the internet free and open source
 - ✨  designing && building codexcoven, a digital almanac for witches
