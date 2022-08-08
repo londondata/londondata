@@ -3,8 +3,7 @@
 - ✨  running [=i/o](http://github.com/equal-io), a hacker collective dedicated to innovation, education, collaboration && keeping the internet free and open source
 - ✨  designing && building codexcoven, a digital almanac for witches
 - ✨  practicing medicine in the DR stack, i name i coined for my personal favorite tech stack, Django-React
-- ✨  practicing wild, mad science in general because i am a computer scientist, and i am here to science
-- ✨  in my spare time you can find me enjoying any number of the following things: video games, nine inch nails, my cats, astrology, pop culture, technology, learning as much as i can && actively working to make the world a better place.
+- ✨  in my spare time you can find me enjoying any number of the following things: video games, nine inch nails, my cats, plants, astrology, pop culture, studying other various forms of science && technology, learning as much as i can && actively working to make the world a better place.
 
 <!--
 **londondata/londondata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
