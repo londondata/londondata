@@ -1,4 +1,4 @@
-### hi, you can call me miss london. i create beautiful things. concurrently, i am:
+### hi, you can call me miss london. i create beautiful, dope, meaningful things. concurrently, i am:
 
 - ✨  continually thinking, questioning, creating, sciencing && laughing with the gracious, serendipitous nature of the universe.
 - ✨  practicing medicine in the DR stack, my personal name for my favorite tech stack, Django-React.
