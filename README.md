@@ -3,7 +3,7 @@
 - ✨  continually thinking, questioning, creating, sciencing && laughing with the gracious, serendipitous nature of the universe.
 - ✨  practicing medicine in the DR stack, my personal name for my favorite tech stack, Django-React.
 - ✨  painting, writing && making music, new hobbies i picked up recently that rapidly became an integral part of my life.
-- ✨  i can also be found enjoying any number of the following things: typing furiously at my computer until my mission is accomplished && i proclaim, "i'm in", video games, nine inch nails, my cats, plants, astrology, pop culture, further studying science && technology, learning as much as i can and actively working to make the world a better place by building an ethical technoempire.
+- ✨  i can also be found enjoying any number of the following things: typing furiously at my computer until i proclaim, "i'm in", video games, nine inch nails, my cats, plants, astrology, pop culture, further studying science && technology, learning as much as i can and actively working to make the world a better place by building an ethical technoempire.
 - ✨ let's shape the future, shall we?
 
 <!--
