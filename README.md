@@ -1,8 +1,8 @@
 ### hi, you can call me miss london. i solve problems && create dope stuff. concurrently, i am:
 
 - ✨  producing, designing, coding, inventing, learning, questioning, sciencing && practicing medicine in my DR stack
-- ✨  running businesses && building an ethical technoempire as part of my quest to make the world a better place
-- ✨  vibing along with video games, nine inch nails, fallout boy, astrology, pop culture, witchcraft, painting, && making music
+- ✨  building an ethical techno-fempire as part of my quest to make the world a better place while simultaneously having as much fun as humanly possible
+- ✨  vibing with video games, nine inch nails, fall out boy, astrology, pop culture, witchcraft, painting, && making music
 - ✨  typing furiously at my computer until i proclaim, "i'm in"
 - ✨  let's shape the future, shall we?
 
