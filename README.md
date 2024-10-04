@@ -1,10 +1,4 @@
-### hi, you can call me miss london. i solve problems && create dope stuff. concurrently, i am:
-
-- ✨  producing, designing, coding, inventing, learning, questioning, sciencing && practicing medicine in my DR stack
-- ✨  building an ethical techno-fempire as part of my quest to make the world a better place while simultaneously having as much fun as humanly possible
-- ✨  vibing with video games, nine inch nails, fall out boy, astrology, pop culture, witchcraft, painting, && making music
-- ✨  typing furiously at my computer until i proclaim, "i'm in"
-- ✨  let's shape the future, shall we?
+- ✨  put tech back in the hands of the people
 
 <!--
 **londondata/londondata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
